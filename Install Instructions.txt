@@ -1,0 +1,9 @@
+1.How to make ipywidgets work in jupyter lab?
+Answer.
+Step 1. Install node.js
+Step 2. Paste the command in anaconda prompt and run.
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+
+2.How to make voila work in jupyter lab?
+Answer. Run the below command in either in jupyter notebook or anaconda prompt
+conda install -c conda-forge voila
