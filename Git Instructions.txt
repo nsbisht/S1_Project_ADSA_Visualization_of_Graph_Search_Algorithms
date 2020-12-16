@@ -12,3 +12,8 @@ Step 4. git add .
 Step 5. git commit -m "msg"
 Step 6. git push
 
+3.How to check the commit log?
+Answer. git log
+
+4.How to check the status of current repository?
+Answer. git status
