@@ -1,0 +1,19 @@
+Microsoft Windows [Version 10.0.19041.685]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\Users\HP>D:
+
+D:\>mkdir ai
+
+D:\>cd ai
+
+D:\ai>git clone https://github.com/nsbisht/Algorithms_Project_G9.git
+Cloning into 'Algorithms_Project_G9'...
+info: please complete authentication in your browser...
+remote: Enumerating objects: 30, done.
+remote: Counting objects: 100% (30/30), done.
+remote: Compressing objects: 100% (22/22), done.
+remote: Total 30 (delta 6), reused 24 (delta 5), pack-reused 0 eceiving objects:  93% (28/30), 228.00 KiB | 403.00 KiB/sReceiving objects: 100% (30/30), 228.00 KiB | 403.00 KiB/s
+Receiving objects: 100% (30/30), 415.97 KiB | 620.00 KiB/s, done.
+Resolving deltas: 100% (6/6), done.
+
