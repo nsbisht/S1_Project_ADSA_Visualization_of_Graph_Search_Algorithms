@@ -1,14 +1,14 @@
 1.How to set the default author identity before creating the first commit?
 Answer. Paste and run below 2 commands on Git Bash.
-git config --global user.email "delnajose006@gmail.com"
-git config --global user.name "Delna Jose"
+git config --global user.email "username@xyz.com"
+git config --global user.name "Name"
 
 2.How to create a commit and push it to GitHub?
 Answer. 
-Step 1. Go to the local git folder using file explorer.
+Step 1. Locate the modified/newly created file using file explorer.
 Step 2. Right click and select "Git Bash Here".
 Step 3. git pull
-Step 4. git add .
+Step 4. git add "File Name"
 Step 5. git commit -m "msg"
 Step 6. git push
 
