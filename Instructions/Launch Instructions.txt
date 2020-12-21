@@ -1,0 +1,21 @@
+
+(base) C:\Users\HP>D:
+
+(base) D:\>cd ai
+
+(base) D:\ai>jupyter lab
+[I 21:05:37.509 LabApp] JupyterLab extension loaded from C:\Users\HP\anaconda3\lib\site-packages\jupyterlab
+[I 21:05:37.510 LabApp] JupyterLab application directory is C:\Users\HP\anaconda3\share\jupyter\lab
+[I 21:05:37.514 LabApp] Serving notebooks from local directory: D:\ai
+[I 21:05:37.515 LabApp] The Jupyter Notebook is running at:
+[I 21:05:37.515 LabApp] http://localhost:8888/?token=589c85bb538e59ee0549cf6b10307debb162b3c34ec6b30b
+[I 21:05:37.515 LabApp]  or http://127.0.0.1:8888/?token=589c85bb538e59ee0549cf6b10307debb162b3c34ec6b30b
+[I 21:05:37.515 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:05:37.659 LabApp]
+
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/HP/AppData/Roaming/jupyter/runtime/nbserver-13500-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=589c85bb538e59ee0549cf6b10307debb162b3c34ec6b30b
+     or http://127.0.0.1:8888/?token=589c85bb538e59ee0549cf6b10307debb162b3c34ec6b30b
+[W 21:05:41.916 LabApp] Could not determine jupyterlab build status without nodejs
